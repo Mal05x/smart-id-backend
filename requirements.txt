@@ -1,0 +1,24 @@
+# Core Backend
+fastapi==0.95.2
+uvicorn==0.22.0
+
+# Database
+sqlalchemy==2.0.15
+psycopg2-binary==2.9.6
+aioredis==2.0.1
+
+# Security
+python-jose==3.3.0
+passlib==1.7.4
+python-multipart==0.0.6
+
+# IoT/MQTT
+paho-mqtt==1.6.1
+aiomqtt==0.1.0
+
+# Environment
+python-dotenv==1.0.0
+
+# Async (Optional but recommended)
+anyio==3.6.2
+
